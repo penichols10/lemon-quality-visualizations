@@ -1,0 +1,1 @@
+In this notebook, I train a quick binary image classifier and plot some visualizations to see how the model is performing.
